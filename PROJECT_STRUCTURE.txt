@@ -1,0 +1,25 @@
+SkillBridge_AI_SIH2026_FULLSTACK/
+│
+├── frontend/
+│   ├── index.html
+│   ├── package.json
+│   ├── vite.config.js
+│   ├── .env.example
+│   └── src/
+│       ├── main.jsx
+│       ├── index.css
+│       ├── App.jsx
+│       ├── App.css
+│       └── services/
+│           └── api.js
+│
+├── backend/
+│   ├── main.py
+│   ├── requirements.txt
+│   └── database/
+│       └── schema.sql
+│
+├── start-frontend.bat
+├── start-backend.bat
+├── .gitignore
+└── README.md
